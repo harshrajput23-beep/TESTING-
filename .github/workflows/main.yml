@@ -31,6 +31,6 @@ jobs:
       - name: Set Execute Permissions
         run: chmod +x * && chmod +x LEGEND
 
-      - name: Run Application
+      - name: TESTING 
         run: python LEGEND.py
         
