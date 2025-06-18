@@ -31,6 +31,6 @@ jobs:
       - name: Set Execute Permissions
         run: chmod +x * && chmod +x LEGEND
 
-      - name: Run Application
+      - name: [![Python Application CI](https://github.com/harshrajput23-beep/TESTING-/actions/workflows/main.yml/badge.svg)](https://github.com/harshrajput23-beep/TESTING-/actions/workflows/main.yml)
         run: python LEGEND.py
         
